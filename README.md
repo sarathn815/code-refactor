@@ -10,6 +10,7 @@ HTML
 CSS
 1) Removed reference to div
 2) Added reference to nav
-3) fixed alignment of nav with logo when 1 & 5 above implemented
+3) Consolidated much of the styling due to sematic tag conversion
+4)Moved url of image to html to allow adding alt tag
 4) Added various comments
  

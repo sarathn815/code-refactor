@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,15 +42,17 @@ header nav li {
     margin-left: 25px;
 }
 
+/* global a tag styling for links*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* global p tag styling for paragraphs */
 p {
     font-size: 16px;
 }
 
+/* format for image in hero class moved img url to html */
 .hero img {
     height: 800px;
     width: 100%;
@@ -58,12 +60,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float image left within section */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* float image right within section */
 .float-right {
     float: right;
     margin-left: 25px;
