@@ -120,7 +120,7 @@ article section {
  
 }
 
-
+/* Was able collapse some styles below due to use of sematic tags */
 article figure img {
     max-height: 200px;
 }
